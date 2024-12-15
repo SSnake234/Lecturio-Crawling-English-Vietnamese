@@ -17,7 +17,7 @@ This project contains scripts for crawling and extracting lecture transcripts fr
 ## Usage
 
 1. **get_links.py**: 
-   - Run the script to collect lecture links (you don't need to run this since the lectures link are already in `links/lectures3.txt`.
+   - Run the script to collect lecture links (you don't need to run this since the lectures link are already in `links/lectures3.txt`).
    - Ensure you update the script to input your email and password for login.
 
 2. **get_transcripts.py**: 
