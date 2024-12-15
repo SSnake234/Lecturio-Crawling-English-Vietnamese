@@ -64,7 +64,7 @@
         # driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]').click()
 #         sleep(5)
 
-#         for i in range(12000, len(lecture_links)):
+#         for i in range(len(lecture_links)):
 #             if i % 5 != worker_id:
 #                 continue
 #             try:
